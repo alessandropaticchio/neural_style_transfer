@@ -4,7 +4,7 @@ This repository contains the code that replicates the paper of [Gatys et al.](ht
 that introduced Neural Style Transfer in 2015.
 
 Neural Style Transfer is an optimization technique to manipulate an image and apply the visual appearance of another one.
-This allows to create peculiar artworks like the following, which I borrowed from the original paper.
+This allows to create peculiar artworks like the followings, which I borrowed from the original paper.
 
 ![Reference image](images/paper_img.png)
 
