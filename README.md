@@ -87,7 +87,8 @@ The output will be placed in the `generated` folder.
 # Outputs
 
 These are examples of self-portraits I made myself:
-
+<p float="left">
 <img src="data/generated/generated_io_text_3.png" width="250">
 <img src="data/generated/generated_io_swirls.png" width="250">
 <img src="data/generated/generated_io_painting.png" width="250">
+</p>
