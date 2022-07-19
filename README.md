@@ -83,3 +83,11 @@ Then, open `nst.py` to configure the optimization. When you are ready to go, jus
 `python nst.py`
 
 The output will be placed in the `generated` folder.
+
+# Outputs
+
+These are examples of self-portraits I made myself:
+
+<img src="data/generated/generated_io_text_3.png" width="250">
+<img src="data/generated/generated_io_swirls.png" width="250">
+<img src="data/generated/generated_io_painting.png" width="250">
